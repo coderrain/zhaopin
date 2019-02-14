@@ -4,9 +4,9 @@
 
 ## 企业发布
 - 联系微信扫码练习群主
-<img src="./my.png">
+<img src="https://github.com/coderrain/zhaopin/blob/master/my.png">
 
 
 ## 求职
 - 进群扫码
-<img src="./q.png">
+<img src="https://github.com/coderrain/zhaopin/blob/master/q.png">
