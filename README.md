@@ -4,9 +4,14 @@
 
 ## 企业发布
 - 联系微信扫码练习群主
-<img src="https://github.com/coderrain/zhaopin/blob/master/my.png">
+<img src="http://class.sjzyuyingedu.com/my.png">
 
 
 ## 求职
 - 进群扫码
-<img src="https://github.com/coderrain/zhaopin/blob/master/q.png">
+- 如果二维码失效练习群主微信
+<img src="http://class.sjzyuyingedu.com/q.png">
+
+
+## 目的
+- 资源共享，营造石家庄互联网求职招聘大环境
