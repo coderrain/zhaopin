@@ -44,6 +44,7 @@
 		- viewport
 		- 媒体查询
 		- 相适应和移动端页面实战
+	- UI框架BootStrap
 	- github
 		- git使用
 		- github搭建静态网页
@@ -72,7 +73,6 @@
 		- 盒子模型
 		- 定时器
 		- 同步和异步
-		- 常用设计模式
 		- ajax交互
 		- ES6语法糖
 - 第三阶段
@@ -83,45 +83,44 @@
 			- 特效
 			- 选择器
 			- 数据操作
-			- Ajax操作	
-		- UI框架BootStrap	
+			- Ajax操作		
 		- Node.js	
-			- NODE基础知识：核心原理、npm包管理、npm/yarn基础语法，全局本地区别、依赖区别，安装本地配置命令 
-				- 掌握node核心原理 
-				- 掌握npm包管理 
-				- 掌握npm/yarn基础语法 
-				- 掌握安装本地配置命令 
-				- 掌握Express框架 
-				- 掌握中间件原理
+			- NODE特性
+			- NODE API
+			- NODE操作
+			- express框架/koa2框架
+			- mysql/mongodb
+			- 搭建个人博客
 		- Es6	
-			- babel转换器、Let和Const命令、字符串扩展、解构赋值、Object扩展、Class类、Module模块	
-				- 掌握babel转换器 
-				- Let和Const命令 
-				- 字符串扩展
-				- 解构赋值
-				- Object扩展
-				- Class类
+			- Let和Const命令 
+			- 字符串扩展
+			- 解构赋值
+			- Object扩展
+			- Class类
+			- 箭头函数
+			- ......
 		- 构建工具之Webpack	
-			- Webpack安装、Webpack config配置文件、Webpack服务器搭建、Webpack处理CSS和图片
-				- 掌握Webpack安装
-				- Webpack config配置文件
-				- Webpack服务器搭建 
-				- Webpack处理CSS和图片
+			- 掌握Webpack安装
+			- Webpack config配置文件
+			- Webpack服务器搭建 
+			- Webpack处理CSS和图片
+			- .......
 		- Vue.js
-			- 什么是vue？、Vue的使用、Vue常见的指令、Vue中事件绑定和属性绑定、Vue中的计算属性、Vue中的修饰符、 义过滤器和指令、Vue实例上的方法、Vue中的声明周期、Axios应用async await、组件的属性和校验、组件之间的通信、 Vue-router的使用、路由的嵌套、路由元信息、Vue-cli的使用、 Element-ui组件的配合使用
-				- 掌握Vue常见的指令 
-				- 掌握Vue中事件绑定和属性绑定 
-				- 掌握Vue中的计算属性
-				- 掌握Vue实例上的方法
-				- 掌握组件之间的通信
-				- 掌握Vue-cli的使用
+			- vue基础文档以及脚手架
+			- vue-router文档以及脚手架
+			- vuex文档以及脚手架
+			- axios文档以及脚手架
+			- 小实战项目
+			- MVVM原理
+		- 设计模式
 ## 第四阶段
 - 微信应用开发篇	
-	- 微信小程序
+	- 微信小程序开发
+	- 微信公共号开发
 ## 第五阶段
-- 项目实战篇	当当网商城系统	项目初始化、使用Git、Github管理项目源代码、商品分类、添加购物车、结算功能、
+- 项目实战篇
+	- 传统项目开发（电商网站）
+	- 单页应用开发（后台应用管理）
+	- 后端代码开发
 ## 第六阶段
-- 就业冲刺篇	笔试题 & 面试题 精析	工作前冲刺阶段	为工作面试专项准备， 大幅度提高笔试面试成功率
-## 第七阶段 
-- 修成正果篇	实习 & 工作岗	正式求职与经验教育总结，找到最合适个人的理想工作	激励优化学员，继往开来
-
+- 自己总结面试题和工作中注意点
