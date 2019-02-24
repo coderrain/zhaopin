@@ -33,51 +33,60 @@
 ## 课程：
 - 第一阶段基础技术篇	
 	- Html/Css基础	
-		- 对前端的整体认识、 开发工具的安装与使用、 Html/css基础知识讲解以及兼容性处理、 HTML基本结构、 HTML常用标签、 项目综合练习以及项目实战(搭建静态网站)	1.了解HTML对于网页的意义
-		- 掌握HTML标签与属性
-		- 掌握div与标签的嵌套规则
+		- 对前端的整体认识
+		- 开发工具的安装与使用、 
+		- 常用标签，盒模型，浮动，定位，选择器优先级
+		- 页面兼容
+		- pc页面实战
+	- html5/css3基础
+		- 新增标签
+		- 2D、3D 变换、animation 动画
+		- viewport
+		- 媒体查询
+		- 相适应和移动端页面实战
+	- github
+		- git使用
+		- github搭建静态网页
 - 第二阶段基础进阶篇	
 	- JS基础知识	
 		- 核心模块讲解（变量、数据类型、操作语句、函数、数组与算法、DOM等）	
-			- 掌握JavaScript变量声明
-			- 掌握JavaScript变量类型与转换
-			- 掌握JavaScript操作语句
-			- 掌握JavaScript函数使用
-			- 掌握JavaScript数组与算法
-	- H5/C3进阶	
-		- 新布局标签、多媒体标签、新增表单标签、新增表单属性、2D、3D 变换、animation 动画、炫酷页面开发		- 掌握HTML5新特性有哪些
-			- 掌握HTML5的语义化标签实现方式
-			- 掌握HTML5提供的多媒体使用
-			- 掌握HTML5的本地存储方式
-			- 掌握HTML5 Canvas标签应用
+			- 变量以及命名
+			- 数据类型以及转换
+			- 操作语句 
+			- 操作DOM
+			- 函数
+			- dom基础核心
+			- 字符串，数组，对象以及Math, Date等内置对象
+			- 基础排序算法
 	- JS基础进阶	
-		- 作用域、闭包、面向对象等
-		- 常用设计模式：
-			- 高级单例模式、构造函数(原型)模式、发布订阅模式、 
-			- AJAX同源策略 和 JSONP跨域策略 核心讲解，
-			- 以及前后端分离项目实战练习；
-		- ES6 基础知识到项目应用	
-			- 掌握原生js的作用域
-			- 掌握闭包
-			- 掌握面向对象
-			- 掌握常用设计模式
+		- 数据类型原理
+		- 堆栈内存占用，溢出，释放
+		- 变量提升
+		- 作用域链
+		- 闭包
+		- this指向
+		- 面向对象
+		- 原型链
+		- call/apply/bind的使用
+		- 正则
+		- 盒子模型
+		- 定时器
+		- 同步和异步
+		- 常用设计模式
+		- ajax交互
+		- ES6语法糖
 - 第三阶段
-	- 框架实战篇	jQuery.js
-		- jQuery常见操作、jQueryDOM操作、jQuery特效、jQuery选择器、jQuery数据操作、jQuery Ajax、jQuery实战	
-			- 掌握jQuery常见操作
-			- 掌握jQueryDOM操作
-			- 掌握jQuery特效
-			- 掌握jQuery选择器
-			- 掌握jQuery实战
-		- Bootstrap
-		- BootStrap介绍、BootStrap引入、BootStrap栅格系统、BootStrap全局CSS样式、BootStrap 栅格系统原理响应式设计、BootStrap实例操作	
-			- 掌握BootStrap栅格系统
-			- 掌握BootStrap全局CSS样式 
-			- 掌握BootStrap 栅格系统原理响应式设计 
-			- 掌握BootStrap实例操作
+	- 工具库
+		- jQuery.js/zepto
+			- 常见操作
+			- DOM操作 
+			- 特效
+			- 选择器
+			- 数据操作
+			- Ajax操作	
+		- UI框架BootStrap	
 		- Node.js	
 			- NODE基础知识：核心原理、npm包管理、npm/yarn基础语法，全局本地区别、依赖区别，安装本地配置命令 
-深入讲解Express框架：路由控制及路由原理、中间件原理 ejs / jade 模板引擎开发、cookie和session的应用…	
 				- 掌握node核心原理 
 				- 掌握npm包管理 
 				- 掌握npm/yarn基础语法 
