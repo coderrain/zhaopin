@@ -49,7 +49,7 @@
 		- git使用
 		- github搭建静态网页
 - 第二阶段基础进阶篇	
-	- JS基础知识	
+	- JS基础
 		- 核心模块讲解（变量、数据类型、操作语句、函数、数组与算法、DOM等）	
 			- 变量以及命名
 			- 数据类型以及转换
@@ -59,7 +59,7 @@
 			- dom基础核心
 			- 字符串，数组，对象以及Math, Date等内置对象
 			- 基础排序算法
-	- JS基础进阶	
+	- JS进阶	
 		- 数据类型原理
 		- 堆栈内存占用，溢出，释放
 		- 变量提升
@@ -76,42 +76,42 @@
 		- ajax交互
 		- ES6语法糖
 - 第三阶段
-		- jQuery.js/zepto
-			- 常见操作
-			- DOM操作 
-			- 特效
-			- 选择器
-			- 数据操作
-			- Ajax操作		
-		- Node.js	
-			- NODE特性
-			- NODE API
-			- NODE操作
-			- express框架/koa2框架
-			- mysql/mongodb
-			- 搭建个人博客
-		- Es6	
-			- Let和Const命令 
-			- 字符串扩展
-			- 解构赋值
-			- Object扩展
-			- Class类
-			- 箭头函数
-			- ......
-		- 构建工具之Webpack	
-			- 掌握Webpack安装
-			- Webpack config配置文件
-			- Webpack服务器搭建 
-			- Webpack处理CSS和图片
-			- .......
-		- Vue.js
-			- vue基础文档以及脚手架
-			- vue-router文档以及脚手架
-			- vuex文档以及脚手架
-			- axios文档以及脚手架
-			- 小实战项目
-			- MVVM原理
-		- 设计模式
+	- jQuery.js/zepto
+		- 常见操作
+		- DOM操作 
+		- 特效
+		- 选择器
+		- 数据操作
+		- Ajax操作		
+	- Node.js	
+		- NODE特性
+		- NODE API
+		- NODE操作
+		- express框架/koa2框架
+		- mysql/mongodb
+		- 搭建个人博客
+	- Es6	
+		- Let和Const命令 
+		- 字符串扩展
+		- 解构赋值
+		- Object扩展
+		- Class类
+		- 箭头函数
+		- ......
+	- 构建工具之Webpack	
+		- 掌握Webpack安装
+		- Webpack config配置文件
+		- Webpack服务器搭建 
+		- Webpack处理CSS和图片
+		- .......
+	- Vue.js
+		- vue基础文档以及脚手架
+		- vue-router文档以及脚手架
+		- vuex文档以及脚手架
+		- axios文档以及脚手架
+		- 小实战项目
+		- MVVM原理
+	- 设计模式
 ## 第四阶段
 - 微信应用开发篇	
 	- 微信小程序开发
